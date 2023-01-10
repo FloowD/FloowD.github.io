@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Introduction"
 ---
 
 Reusability is one of the main principles in the Knowledge Graph Engineering (KGE) pro-
